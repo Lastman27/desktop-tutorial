@@ -14,7 +14,7 @@ class Solution {
             }
             else if(freq[c-'A'] == maxf) cntf++;
         }
-        // step 1 completed
+        // step 1 complete
         
         int parts = maxf - 1; 
         int emptySlots = parts * (n - (cntf-1)); 
