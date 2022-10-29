@@ -22,7 +22,7 @@ class Solution {
             
             deg[u]++; deg[v]++;
         }
-        // adjaencyList ready
+        // adjaencyList is ready
         
         
         Queue<Integer> q=new LinkedList<>();
